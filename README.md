@@ -83,6 +83,7 @@ Instalam-se as dependências através do comando:
 
 ```bash
    pip install -r requirements.txt
+```
 
 ---
 

@@ -83,3 +83,9 @@ Instalam-se as dependências através do comando:
 
 ```bash
    pip install -r requirements.txt
+
+---
+
+## Apêndice de IA
+
+Uso da IA XXXX para copilotar o desenvolvimento do código.
